@@ -1,4 +1,5 @@
-# mspaint.cc
+# mspaint
+
 ```bash
 ~$ echo about
 mspaint is a roblox script hub that supports many games and is used by over 8.5k users. 
