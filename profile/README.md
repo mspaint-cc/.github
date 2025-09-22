@@ -1,4 +1,4 @@
-# bash — C:/Users/Admin/mspaint
+# mspaint
 
 ```bash
 ~$ echo about
