@@ -2,7 +2,8 @@
 
 ```bash
 ~$ echo about
-mspaint is a roblox script hub that supports many games and is used by over 22k users. We also created and maintain a variety of OSS projects such as Obsidian & Cobalt
+mspaint is a roblox script hub that supports many games and is used by over 22k users.
+We also created and maintain a variety of OSS projects such as Obsidian & Cobalt
 
 ~$ echo supported games
 https://www.mspaint.cc/#games
